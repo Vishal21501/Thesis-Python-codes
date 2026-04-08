@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "S"
+- family-names: "Vishal_S"
   given-names: "Vishal"
 title: "Thesis-Python-codes"
 version: 1.0.0
